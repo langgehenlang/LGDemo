@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LGDemo</string>
+
+    <string name="drag_tag_text">上方%1$d个开关会出现在通知栏中</string>
+
+
+</resources>
